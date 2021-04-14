@@ -185,7 +185,7 @@
 #### Q21. In an XML DTD, attributes are declared with an ATTLIST declaration. You need to validate the color attribute for element `<car>` against a fixed list of values. Which is the correct declaration?
 - [ ] `<!ATTLIST car color (red|white|blue|black) black>`
 - [ ] `<!ATTLIST car color (red|white|blue|black) #REQUIRED>`
-- [ ] `<!ATTLIST car color (red|white|blue|black) #FIXED>`
+- [x] `<!ATTLIST car color (red|white|blue|black) #FIXED>`
 - [ ] `<!ATTLIST car color (red|white|blue|black)>`
 
 #### Q22. The main ways to control the display of XML documents are with Cascading Style Sheets (CSS) and Extensible Styles Language (XSL). What is an advantage of CSS over XSL?
@@ -197,7 +197,7 @@
 #### Q23. Which type of DTD declaration is this code an example of? `<!DOCTYPE abc SYSTEM "file/file.dtd">`
 - [ ] Linked
 - [ ] Internal
-- [ ] External
+- [x] External
 - [ ] Structured
 
 #### Q24. The purpose of an XML schema is to define the building blocks of an XML document. Which option best describes the building blocks of an XML document?
